@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/one.xml" value="0.219" />
+        <entry key="app/src/main/res/drawable/two.xml" value="0.2026214599609375" />
+        <entry key="app/src/main/res/drawable/welcome_logo_background.xml" value="0.158" />
+        <entry key="app/src/main/res/layout-small/activity_menu.xml" value="0.13902354993318256" />
+        <entry key="app/src/main/res/layout-sw320dp/activity_game.xml" value="0.2929376220703125" />
+        <entry key="app/src/main/res/layout/activity_game.xml" value="0.21758839528558477" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.235821533203125" />
+        <entry key="app/src/main/res/layout/activity_menu.xml" value="0.47792358398437496" />
+        <entry key="app/src/main/res/layout/activity_scores.xml" value="0.39630363826417375" />
+        <entry key="app/src/main/res/layout/language_menu.xml" value="0.24027362120564344" />
+        <entry key="app/src/main/res/layout/list_item.xml" value="0.25951261222744765" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.1368106028217187" />
+        <entry key="app/src/main/res/menu/language_menu.xml" value="0.12604263206672844" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/welcome_logo.xml" value="0.158" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

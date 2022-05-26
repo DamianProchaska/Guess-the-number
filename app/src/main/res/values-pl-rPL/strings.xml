@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu">Wybierz poziom:</string>
+    <string name="check">enter</string>
+    <string name="clear">cofnij</string>
+    <string name="backMenu">Wróć do menu</string>
+    <string name="bestScores">Najlepsze wyniki</string>
+    <string name="task">Zgadnij liczbę pomiędzy</string>
+    <string name="and">a</string>
+    <string name="alert">Wygrałeś w</string>
+    <string name="tries">próbach</string>
+    <string name="nextLvl">następny poziom</string>
+    <string name="alertMenu">wróć do menu</string>
+    <string name="tries2">" "</string>
+</resources>

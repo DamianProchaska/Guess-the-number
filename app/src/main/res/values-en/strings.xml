@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu">Choose level:</string>
+    <string name="bestScores">Your best scores</string>
+    <string name="backMenu">Go back to menu</string>
+    <string name="clear">clear</string>
+    <string name="check">check</string>
+    <string name="task">Guess the number between</string>
+    <string name="and">and</string>
+    <string name="alert">You won in</string>
+    <string name="tries">tries</string>
+    <string name="nextLvl">next level</string>
+    <string name="alertMenu">go to menu</string>
+    <string name="tries2">tries</string>
+</resources>
